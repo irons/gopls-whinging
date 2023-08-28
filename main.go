@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(golorem.Sentence(7, 11))
-	fmt.Println(golorem.Paragraph(7, 11))
+	fmt.Println(lorem.Sentence(7, 11))
+	fmt.Println(lorem.Sentence(2, 5))
 }
